@@ -10,7 +10,7 @@ pipeline {
  
             steps {
  
-                git url: 'https://github.com/xxyyxxx/jenkinsCI.git', branch: 'master' // For local git repo. For remote: 'https://github.com/your_username/my_python_app.git'
+                git url: 'https://github.com/kammala555/my_python_app.git', branch: 'master' // For local git repo. For remote: 'https://github.com/your_username/my_python_app.git'
  
                 // If your default branch is 'master', change 'main' to 'master'
  
